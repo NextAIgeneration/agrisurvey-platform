@@ -449,7 +449,7 @@ export default function DataDistribuee() {
           <ul style={{ color: '#c0c0c0', lineHeight: 2, paddingLeft: '25px', fontSize: '1.05em' }}>
             <li><strong style={{ color: '#3498DB' }}>Souveraineté:</strong> 100% données EU, aucune dépendance cloud US</li>
             <li><strong style={{ color: '#3498DB' }}>Résilience:</strong> Mesh network auto-healing, 3-node IPFS replication</li>
-            <li><strong style={{ color: '#3498DB' }}>Performance:</strong> Edge computing <50ms, IPFS P95 <200ms</li>
+            <li><strong style={{ color: '#3498DB' }}>Performance:</strong> Edge computing &lt;50ms, IPFS P95 &lt;200ms</li>
             <li><strong style={{ color: '#3498DB' }}>Coût:</strong> 87% économie stockage vs cloud centralisé</li>
             <li><strong style={{ color: '#3498DB' }}>Sécurité:</strong> AES-256 encryption, content-addressable integrity</li>
           </ul>

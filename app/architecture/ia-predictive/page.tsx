@@ -459,7 +459,7 @@ export default function IAPredictive() {
               <ul style={{ color: '#c0c0c0', lineHeight: 2, paddingLeft: '25px', fontSize: '1.05em' }}>
                 <li><strong>Privacy:</strong> Données agricoles sensibles restent sur infrastructure EU</li>
                 <li><strong>Coût:</strong> €0 API calls vs €450/mois Claude API (10K requêtes)</li>
-                <li><strong>Latence:</strong> <2s local vs 800-1500ms cloud API</li>
+                <li><strong>Latence:</strong> &lt;2s local vs 800-1500ms cloud API</li>
                 <li><strong>Disponibilité:</strong> 100% offline-capable (pas internet requis)</li>
                 <li><strong>RGPD:</strong> Compliance automatique (pas transfert data hors EU)</li>
               </ul>

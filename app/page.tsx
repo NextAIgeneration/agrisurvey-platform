@@ -45,7 +45,7 @@ export default function Home() {
             WebkitTextFillColor: 'transparent',
             marginBottom: '20px',
             fontWeight: 800,
-            textShadow: '0 4px 20px rgba(255, 220, 0, 0.15), 0 8px 40px rgba(255, 220, 0, 0.1)'
+            textShadow: '0 4px 20px rgba(224, 46, 113, 0.25), 0 8px 40px rgba(224, 46, 113, 0.15)'
           }}>
             ⬡ AgriSurvey Platform
           </h1>
